@@ -14,10 +14,14 @@ Example 2: visualize UAS geographical zones with information on interactive map
 
 ![france_interactive](france_interactive.png)
 
+Example 3: visualize Metropolitan France zones without UAS geographical zones 
+
+![without_france](without_france.png)
 
 ## Running the tests
 
 Run the notebook uas_geographical_zones.ipynb to load data and visualize UAS geographical zones on maps
+Run the notebook without_uas_zones.ipynb to visualize zones in Metropolitan France without UAS geographical zones
 
 
 ## Built With
@@ -32,7 +36,7 @@ The following Python libraries are used in these notebooks:
 ## Versions
 
 This code was tested with following versions:
-* uas_geographical_zones.ipynb: Python 3.9.4, pandas 1.3.4, geopandas 0.10.2, contextily 1.1.0, shapely 1.7.1
+* Python 3.9.4, pandas 1.3.4, geopandas 0.10.2, contextily 1.1.0, shapely 1.7.1
 
 
 ## Authors
