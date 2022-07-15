@@ -2,7 +2,7 @@
 
 Commission implementing regulation (EU) 2019/947 of 24 May 2019 on the rules and procedures for the operation of unmanned aircraft stipulates that when Member States define UAS geographical zones (for safety, security, privacy or environmental reasons), they shall ensure for geo awareness purposes that the information ont the UAS geographical zones is made publicly available in a common unique digital format.
 Following the French regulation of 3 December 2020 ("Arrêté du 3 décembre 2020 relatif à l'utilisation de l'espace aérien par les aéronefs sans équipage à bord"), UAS geographical zones active on French territory are published as Aeronautical Information Publication (AIP) provided by the French Aeronautical Information Service [SIA](https://www.sia.aviation-civile.gouv.fr/).
-The goal of these Python scripts is to build a GeoJSON file from these airspace data, and to visualize lateral areas of these UAS geographical zones on maps.  
+ <br /> The goal of these Python scripts is to build a GeoJSON file from these airspace data, and to visualize lateral areas of these UAS geographical zones on maps.  
  
 
 Example 1: visualize UAS geographical zones on France map
